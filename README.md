@@ -23,7 +23,7 @@ This repository hosts the source code for a user authentication platform built w
 ![Signup](https://i.ibb.co/197H0Qb/authentication-2.png)
 - Signup Page
 
-![Home](https://i.ibb.co/1YCTtYs/authentication-3.png)
+![Home](https://i.ibb.co/sKzSby1/authentication-4.png)
 - Home Page
   
 ## Run Locally
