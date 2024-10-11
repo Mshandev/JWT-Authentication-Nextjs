@@ -4,7 +4,7 @@ This repository hosts the source code for a user authentication platform built w
 
 ## Demo
 
-- Live Preview: [https://ecommerce-nextjs-by-shan.vercel.app/](https://ecommerce-nextjs-by-shan.vercel.app/)
+- Live Preview: [https://jwt-authentication-nextjs.vercel.app/](https://jwt-authentication-nextjs.vercel.app/)
 
 ## Features
 
